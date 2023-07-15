@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "fname": "Eman",
+    "lname": "Abdelqawy",
+    "age": 26,
+    "city": "Mansoura"
+  },
+  { "id": 2, "fname": "Aya", "lname": "Zaid", "age": 26, "city": "Cairo" },
+  { "id": 3, "fname": "Omar", "lname": "Ali", "age": 20, "city": "Cairo" },
+  { "id": 5, "fname": "Noor", "lname": "Ahmed", "age": 22, "city": "Zag" },
+  {
+    "id": 7,
+    "fname": "Ahmed",
+    "lname": "Nassar",
+    "age": 28,
+    "city": "Mansoura"
+  }
+]
